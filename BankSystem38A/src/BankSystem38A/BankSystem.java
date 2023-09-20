@@ -1,4 +1,5 @@
-package iraijyadesu38a;
+package BankSystem38A;
+
 
 import java.util.Scanner;
 
